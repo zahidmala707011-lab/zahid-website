@@ -1,0 +1,16 @@
+body{
+  background:#111827;
+  color:white;
+  font-family:Arial;
+  text-align:center;
+}
+
+.container{
+  margin-top:50px;
+}
+
+.profile{
+  width:180px;
+  height:180px;
+  border-radius:50%;
+}
